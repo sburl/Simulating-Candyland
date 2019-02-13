@@ -1,6 +1,6 @@
 # Simulating Candyland
 
-Candyland is a weird game because it is entirely deterministic.
+Candyland has never been a game I've particularly enjoyed because it is entirely deterministic. While not so fun to play, this means it has some sort of fun probability distribution we can find with a monte carlo method.
 
-@jakevdp did a similar project with <a href="http://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/">Chutes & Ladders</a> so I thought I might try with candyland. 
+@jakevdp gave me the idea with his analysis of <a href="http://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/">Chutes & Ladders</a>
 
