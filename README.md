@@ -1,6 +1,6 @@
 # Simulating Candyland
 
-A simple simulation of Candyland and some analysis.
+Candyland is a weird game because it is entirely deterministic.
 
-Inspired by @jakevdp who did a similar project with chutes & ladders.
-(http://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/) 
+@jakevdp did a similar project with (Chutes & Ladders)[http://jakevdp.github.io/blog/2017/12/18/simulating-chutes-and-ladders/] so I thought I might try with candyland. 
+
